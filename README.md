@@ -1,8 +1,10 @@
 
-# Hello, I'm Matthieu Kaeppelin 👋
+<h1 align="center"> Hello, I'm Matthieu Kaeppelin 👋 </h1>
 
 ### About Me
-I am a student at Télécom Paris, specializing in Data Science, Generative AI, and Computer Vision. I have a passion for exploring cutting-edge technologies and building solutions that leverage the power of artificial intelligence and data-driven insights.
+<p align="center">I am a student at Télécom Paris, specializing in Data Science, Generative AI, and Computer Vision. I have a passion for exploring cutting-edge technologies and building solutions that leverage the power of artificial intelligence and data-driven insights.</p>
+
+---
 
 - 🔭 I’m currently working as a Consultant - Data Scientist in a strategy consulting firm
 - 🌱 I’m currently learning: RAGs, langchain, APIs 
