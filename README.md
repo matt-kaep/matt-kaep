@@ -13,7 +13,7 @@
 ### 🚀 Featured Projects
 Here are a few projects that I’ve worked on:
 
-- [**Medical Classification**](https://github.com/matt-kaep/IMA-205---Projet-Github)
+- [**Medical Classification**](https://github.com/matt-kaep/Medical_Imaging)
   Development of an algorithm with pre- and postprocessing of skin lesion images and implementation of a skin lesion segmentation algorithm
   - Developed segmentations algorithms using classical technics and more sophisticated ones such as SRM (Statistical Region Merging, deep learning)
   - Developed classification methods for skin lesions in 8 different diagnostic classes using random forest or deep learning
