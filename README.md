@@ -18,7 +18,7 @@ Here are a few projects that I’ve worked on:
   - Developed segmentations algorithms using classical technics and more sophisticated ones such as SRM (Statistical Region Merging, deep learning)
   - Developed classification methods for skin lesions in 8 different diagnostic classes using random forest or deep learning
   
-- [**InterfaceGAN**](link-to-project-repo)  
+- [**InterfaceGAN**](https://github.com/matt-kaep/InterfaceGAN)
   - Use of GAN to generate faces of people
   - Implementation of the InterfaceGAN scientific paper: use of SVM to move in the latent space and try to generate faces with specific characteristics (glasses, young/old, ...)
     
