@@ -47,6 +47,6 @@ Full-stack mobile application that generates personalized meal plans, recipes, a
 ---
 
 ## 📫 Connect
-- LinkedIn: [linkedin.com/in/marcus-kaeppelin](https://linkedin.com/in/matthieu-kaeppelin)
+- LinkedIn: [linkedin.com/in/matthieu-kaeppelin](https://linkedin.com/in/matthieu-kaeppelin)
 - Email: matthieu.kaeppelin@gmail.com
-- Website: [hector-legal.com](https://hector.legal)
+- Website: [hector.legal](https://hector.legal)
