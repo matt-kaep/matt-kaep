@@ -1,41 +1,52 @@
+# Matthieu Kaeppelin
 
-<h1 align="center"> Hello, I'm Matthieu Kaeppelin 👋 </h1>
+**Data Science Master's @ École Polytechnique | Engineering Degree @ Télécom Paris**  
+Co-founder & CEO @ Hector Legal - AI-powered legal document automation
 
-### About Me
-<p align="center">I am a student at Télécom Paris, specializing in Data Science, Generative AI, and Computer Vision. I have a passion for exploring cutting-edge technologies and building solutions that leverage the power of artificial intelligence and data-driven insights.</p>
+Building at the intersection of AI, product, and law. Previously: AI/ML at TAMTAM, Strategy Consulting at Eleven Strategy
 
 ---
 
-- 🔭 I’m currently working as a Consultant - Data Scientist in a strategy consulting firm
-- 🌱 I’m currently learning: RAGs, langchain, APIs 
-- 💬 Ask me about: Data Science, Generative AI, Computer Vision
+## 🚀 Featured Projects
 
-### 🚀 Featured Projects
-Here are a few projects that I’ve worked on:
+### [Warm Intro](https://github.com/matt-kaep/warm-intro)
+Full-stack web app that maps second-degree LinkedIn connections to identify warm introduction paths to prospects. Built custom backend with LinkedIn profile scraping, relationship strength scoring algorithms, and pathfinding to surface optimal introduction routes. Chrome extension brings value directly in the hands of customers by embedding intelligence into their LinkedIn browsing experience — allowing them to take action immediately with one-click introduction requests, anchoring the product in their existing habits rather than requiring a separate platform.
 
-- [**Medical Classification**](https://github.com/matt-kaep/Medical_Imaging)
-  Development of an algorithm with pre- and postprocessing of skin lesion images and implementation of a skin lesion segmentation algorithm
-  - Developed segmentations algorithms using classical technics and more sophisticated ones such as SRM (Statistical Region Merging, deep learning)
-  - Developed classification methods for skin lesions in 8 different diagnostic classes using random forest or deep learning
-  
-- [**InterfaceGAN**](https://github.com/matt-kaep/InterfaceGAN)
-  - Use of GAN to generate faces of people
-  - Implementation of the InterfaceGAN scientific paper: use of SVM to move in the latent space and try to generate faces with specific characteristics (glasses, young/old, ...)
-    
-- [**elevendoc**](https://github.com/matt-kaep/automated_python_documentation)  
-  Creation of a python package (which you can download using pip) that makes API call to openai to generate documentation, Readme and advisory file for your python project
-  It also formats the code to the pep8 format
+**Tech:** Python, React, Chrome Extension API, LinkedIn Scraping, Graph Algorithms
 
-### 🛠 Tech Stack
-Here's a list of the main technologies I work with:
+---
 
-- Programming Languages: Python, Java, GIT, SQL
-- Frameworks & Libraries: langchain, selenium, beautifulsoup, sklearn, pandas, Flask, Tensorflow, Pytorch
-- Tools & Platforms: GitHub, Docker, Pypi, Poetry
+### [elevendoc](https://pypi.org/project/elevendoc/)
+Open-source Python package that auto-generates documentation, README files, and docstrings using multi-agent AI workflows. Built in early 2024 when agentic architectures were just emerging — saved developers hours of manual documentation work while creating comprehensive, searchable knowledge bases from codebases.
 
-### 🌟 Contributions
-I'm open to collaborating on interesting projects. Feel free to reach out!
+**Tech:** Python, OpenAI API, LLM Chaining, Multi-Agent Systems, RAG
 
-### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/matthieu-kaeppelin/)
-- [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:matthieu.kaeppelin@gmail.com)
+`pip install elevendoc`
+
+---
+
+### [Medical Image Classification Neural Network](https://github.com/matt-kaep/Medical_Imaging)
+Built an end-to-end skin lesion classification system achieving 85%+ accuracy across 8 diagnostic classes on dermoscopic image datasets. Implemented segmentation algorithms from research papers (Statistical Region Merging, U-Net) with custom preprocessing pipelines to handle real-world image quality variations. Combined classical ML (Random Forest) with deep learning (CNNs) in an ensemble approach, demonstrating understanding of when simpler models outperform complex ones on limited medical data.
+
+**Tech:** Python, TensorFlow/PyTorch, Computer Vision, Medical Imaging, U-Net, Random Forest, CNNs
+
+---
+
+### [InterfaceGAN Implementation](https://github.com/matt-kaep/InterfaceGAN)
+Reproduced and extended Stanford's InterfaceGAN paper on controllable face generation using GANs. Developed multiple methods to navigate latent space: trained SVMs to identify semantic directions (age, gender, glasses, facial hair), applied PCA to discover principal components of facial variation, and experimented with linear interpolation techniques for attribute manipulation. Built interactive demo enabling real-time multi-attribute control of generated faces, going beyond the original paper's binary attribute changes to support continuous transformations.
+
+**Tech:** Python, GANs, StyleGAN, Computer Vision, SVM, PCA
+
+---
+
+### PACT - Personalized Meal Planning App
+Full-stack mobile application that generates personalized meal plans, recipes, and shopping lists based on household dietary preferences. Built complete system including: recipe database with nutritional data, web scraping of supermarket websites for real-time pricing, OCR for automated grocery bill processing, and recommendation algorithms adapting to user preferences and budget constraints. Handles end-to-end flow from meal suggestion to optimized shopping list generation.
+
+**Tech:** Android Studio, Java/Kotlin, OCR, Web Scraping, Recommendation Systems
+
+---
+
+## 📫 Connect
+- LinkedIn: [linkedin.com/in/marcus-kaeppelin](https://linkedin.com/in/matthieu-kaeppelin)
+- Email: matthieu.kaeppelin@gmail.com
+- Website: [hector-legal.com](https://hector.legal)
